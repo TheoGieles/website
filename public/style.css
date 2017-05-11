@@ -1,0 +1,40 @@
+ul {
+  list-style: georgian;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+h1 {
+  text-align: center;
+  border: 4px solid #66ccff;
+  background-color: #0000ff;
+  padding: 30px;
+  font-size: 1.5rem;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+.buttons {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+  background-color: #ff9900;
+}
+.navi {
+  display: inline-block;
+  text-align: center;
+  width: 100px;
+  height: 15px;
+  margin-top: 2px;
+  margin-right: 5px;
+  margin-left: 5px;
+  border: 1px solid black;
+  background-color: #ff0000;
+}
+.bio {
+  text-align: center;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 2rem;
+}
+.profilepic{
+  width: 50px;
+  display: block;
+}
